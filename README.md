@@ -41,7 +41,8 @@ Conclusion
 In conclusion, an Interactive Quiz Application serves as a powerful tool for education, training, and entertainment. Whether used in classrooms, organizations, or for self-assessment, it fosters engagement, promotes active learning, and provides valuable insights into a user's knowledge and progress. Its flexibility, ease of use, and interactive nature make it an ideal solution for modern-day learners in a digital world.
 
 OUTPUT:
-![Image](https://github.com/user-attachments/assets/127dffba-d7fb-44ff-8e8f-dbfa155e09f2)
 ![Image](https://github.com/user-attachments/assets/b2ed2ec6-5c65-44fe-97ed-0f5e41245148)
-![Image](https://github.com/user-attachments/assets/0525abce-7329-4eb0-b43d-6e0abd192d2a)
+![Image](https://github.com/user-attachments/assets/127dffba-d7fb-44ff-8e8f-dbfa155e09f2)
 ![Image](https://github.com/user-attachments/assets/558ef5cf-de52-4f36-8eb8-5e5f66519f1a)
+![Image](https://github.com/user-attachments/assets/0525abce-7329-4eb0-b43d-6e0abd192d2a)
+
